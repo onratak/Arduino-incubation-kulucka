@@ -22,13 +22,13 @@
   
 Setup
 
-  Firstly you need to setup your machine. You can use explanation.
+  Firstly you need to setup your machine. You can use explanation.(Don't forget libraries)
   I used a storage container for the incubator. I used a 1 liter container in which I can fill water. I covered the storage container with heat-insulating material. I placed one of the fans to circulate inside the incubator. I used the other fan for ventilation.
   
   
 Hazırlık ve yapım
 
-  Kod içerisindeki açıklamaları kullanarak arduinonuza elemanları belirtilen pinlere bağlanayınız.
+  Kod içerisindeki açıklamaları kullanarak arduinonuza elemanları belirtilen pinlere bağlanayınız. ( kodu çalıştırmadan önce kütüphaneleri arudino klasörüne yüklemeyi unutmayınız )
   Kuluçka makinası için saklama kabı kullandım. Kap içerisinde su doldurabileceğim 1 litrelik kap kullandım. Saklama kabının etrafını ısı     yalıtkan malzeme ile kapladım. Fanlardan 1 tanesini kuluçka makinesi içirisine sirkülasyon yapması için yerleştirdim. diğer fanı ise        havalandırma için kullandım.
   
  Yumurta çevirici 
